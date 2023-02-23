@@ -5,6 +5,10 @@ editor: visual
 author: Quinn Thomas
 ---
 
+```{r}
+library(usethis)
+#usethis::use_github_action("render-rmarkdown.yaml")
+```
 
 ## Quarto
 
