@@ -2,7 +2,9 @@
 title: "example-notebook.qmd"
 format: html
 editor: visual
+author: Quinn Thomas
 ---
+
 
 ## Quarto
 
